@@ -17,4 +17,13 @@ class Song
     @name 
   end
   
+  def artist_name
+    if 
+      
+    else
+      
+    end
+    
+    
+  end
 end 
